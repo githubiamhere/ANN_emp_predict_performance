@@ -23,7 +23,7 @@ st.write(
 # Load trained ANN model
 
 model = tf.keras.models.load_model(
-    "day8_emp_perf_pred_ann.keras"
+    "ANN_emp_pred_performance.keras"
 )
 
 
